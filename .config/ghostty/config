@@ -52,13 +52,13 @@ window-height = 25
 window-width = 100
 # Appearance
 theme = tokyonight
-background-opacity = 0.5
+background-opacity = 0.7
 background-blur = true
 window-padding-x = 16
 window-padding-y = 16
 window-padding-balance = true
 window-padding-color = background
-cursor-style = underline
+cursor-style = block
 cursor-style-blink = true
 unfocused-split-opacity = 0.45
 split-divider-color = #2e2e2e
